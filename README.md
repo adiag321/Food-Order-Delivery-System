@@ -1,7 +1,7 @@
 # <p align = 'center'> FOOD ORDER DELIVERY SYSTEM </p>
 
 
-## OBJECTIVES:
+## OBJECTIVES
 
 1. To increase efficiency and improve services provided by the restaurant by streamlining the process of online ordering and delivery.
 2. Will allow restaurant owners to edit and display a restaurant's menu using the Food ordering system.
@@ -13,12 +13,12 @@
 8. Eliminate paperwork and increase accuracy, speed of service, sales volume, and customer satisfaction.
 
 
-## PROBLEM STATEMENT:
+## PROBLEM STATEMENT
 
 1. The restaurant finds it difficult to quickly manage online orders, further causing a discrepancy in data.
 2. There is a need for an automated food ordering system to ease the process of handling customer orders, tracking restaurant sales, and checking on food deliveries, which will, in turn, help the restaurant manage online orders efficiently.
 
-## PROPOSED SOLUTION:
+## PROPOSED SOLUTION
 
 1. Whenever a new customer is registered a new CUST_ID will be generated to uniquely identify that customer. Likewise, we have separate tables MANAGER and DELIVERY_AGENT which will be specific to manager and delivery agent respectively.
 2. Using our database design, the Manager can obtain all the Customer order details, Menu details and Feedback details which we have defined as separate entities. Thus, the Manager can retrieve all the Customer and Menu details and update them with ease.
@@ -32,7 +32,7 @@ table to find sales of restaurant effectively.
 payment, customers can use points in the CUST_WALLET as and when required.
 
 
-## VIEWS:
+## VIEWS
 
 We have created 16 views out of which the top 5 are shown below:
 
@@ -52,6 +52,6 @@ This view will show the monthly sales of the restaurant.
 This view will show the delivery person with the highest delivery rating.
 
 
-## ER DIAGRAM:
+## ER DIAGRAM
 
 ![image](https://i.imgur.com/WH6GLRd.png)
