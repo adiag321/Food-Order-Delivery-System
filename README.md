@@ -52,6 +52,6 @@ This view will show the monthly sales of the restaurant.
 This view will show the delivery person with the highest delivery rating.
 
 
-## ER DIAGRAM
+## ENTITY RELATIONSHIP (ER) DIAGRAM
 
 ![image](https://i.imgur.com/WH6GLRd.png)
